@@ -86,11 +86,13 @@ margin-left: 20px;}
 .java{
 float:left;
 width:50%;
+  margin-right:10px;
 
 }
 .bs{
   float: right;
   width: 25%;
+  margin-left:10px;
 }
 .css{
   clear:none;
